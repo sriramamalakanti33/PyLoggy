@@ -1,7 +1,6 @@
 # PyLoggy
 
-`PyLoggy` is a versatile and easy-to-use Python logging utility that facilitates setting up and managing logging handlers for both console and file outputs. It supports customizable formats and logging levels, making it a powerful tool for any Python project.
-
+`PyLoggy`is a lightweight and flexible Python logging utility that simplifies the setup and management of logging for both console and file outputs. It supports customizable log formats and multiple logging levels, making it easy to integrate into any Python project for clean and consistent debugging and monitoring.
 ## Features
 
 - Log messages to both console and file
@@ -14,7 +13,7 @@
 Clone the repository from GitHub:
 
 ```
-git clone https://github.com/your-username/pyloggy.git
+git clone https://github.com/sriramamalakanti33/pyloggy.git
 ```
 
 ## Usage
